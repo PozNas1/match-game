@@ -1,4 +1,4 @@
-#Steps to run:
+# Steps to run:
 
 1. Install nodeJS (tested using v19.0.1)
    [Download link](https://nodejs.org/en/download)
